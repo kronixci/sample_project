@@ -1,0 +1,2 @@
+run: rake test
+project: git@github.com:kronixci/sample_project.git
